@@ -3,6 +3,8 @@
 
 	Need to adapt it for half-timesteps
 	Need to have a closer look at boundary conditions
+
+	If this appears in the online version then updating files works (i.e. we've understood the git tutorial)
 */
 
 
